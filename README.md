@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Agustin 👋
+💬 Tip to pronounce my name: say quickly enough *"a goose teen"* 😅
 
-<!--
-**agustin-pomies/agustin-pomies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 I'm currently working as a Full Stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### Mobile experience using React Native & Ionic
+
+- #### Front-end experience using React & Angular
+
+- #### Back-end experience using Ruby On Rails & NodeJS
+
+### 🌱 I'm currently learning about *functional programming & web development*
+
+### 📫 You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/agustin-pomies/)
