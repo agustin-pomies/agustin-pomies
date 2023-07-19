@@ -3,14 +3,10 @@
 
 ---
 
-### 🔭 I'm currently working as a Full Stack developer
+### 🔭 I'm currently working as a Full Stack Web developer
 
-- #### Mobile experience using React Native & Ionic
+- #### Front-end experience using React & Angular & Next.js
 
-- #### Front-end experience using React & Angular
-
-- #### Back-end experience using Ruby On Rails & NodeJS
-
-### 🌱 I'm currently learning about *functional programming & web development*
+- #### Back-end experience using Ruby On Rails & NodeJS & Cloud Computing
 
 ### 📫 You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/agustin-pomies/)
